@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="libs/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="libs/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/rest-assured-4.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/Rest Assured/testng-7.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Rest Assured/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="F:/Rest Assured/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="F:/Rest Assured/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="F:/Rest Assured/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
